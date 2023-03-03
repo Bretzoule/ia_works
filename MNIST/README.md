@@ -10,6 +10,8 @@ Il existe une extension VSCode ou alors le programme JupyterNotebook directement
 
 Compte tenu des performances très lentes de la machine de l'école, il est conseillé de passer par Kaggle qui utilise des serveurs beaucoup plus puissants : [https://www.kaggle.com/bretzoule/2-layer-mnist-nn/](https://www.kaggle.com/bretzoule/2-layer-mnist-nn/)
 
+Les fichiers test.csv et train.csv sont à télécharger ici : [https://www.kaggle.com/competitions/digit-recognizer/data](https://www.kaggle.com/competitions/digit-recognizer/data)
+
 ##### Librairies :
 
 - numpy -- `python -m pip install numpy`
